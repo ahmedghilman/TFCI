@@ -12,7 +12,7 @@ terraform {
     organization = "Terraform_CI"
 
     workspaces {
-      name = "TerraformCI"
+      name = "TFCI"
     }
   }
 
